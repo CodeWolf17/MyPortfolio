@@ -1,4 +1,4 @@
-# 👋 Hi, I'm CodeWolf17
+# 👋 Hi, I'm CodeWolf17, This is My Portfolio!
 
 **Full Stack Developer | Graphics Designer | Book Publisher | Social Media Manager | Consultant**
 
@@ -34,8 +34,8 @@ From pixels to print, from code to campaigns—I help you **build, grow, and sta
 Feel free to explore my repositories. Whether you're here for code, design, or inspiration—**welcome to the lab!** ✨
 
 📫 **Let’s connect:**  
-- Email: `maricenpublishers@gmail.com`  
-- Portfolio: [Coming Soon or Add Link]  
+- Email: `innomwijonge@gmail.com`  
+- Portfolio: https://itsinnomwijonge.web.app  
 - GitHub: [github.com/CodeWolf17](https://github.com/CodeWolf17)
 
 ---
